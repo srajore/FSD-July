@@ -1,0 +1,17 @@
+openai
+
+python-dotenv
+
+google-genai
+
+certifi
+
+truststore
+
+#groq
+
+langchain
+
+langchain-groq
+
+langchain-openai
