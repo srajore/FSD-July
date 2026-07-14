@@ -15,3 +15,11 @@ langchain
 langchain-groq
 
 langchain-openai
+
+langsmith
+
+huggingface_hub
+
+langchain_huggingface
+
+langchain-aws
