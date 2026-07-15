@@ -23,3 +23,13 @@ huggingface_hub
 langchain_huggingface
 
 langchain-aws
+
+transformers
+
+torch
+
+langchain_ollama
+
+langchain-tavily
+
+langchain_community
