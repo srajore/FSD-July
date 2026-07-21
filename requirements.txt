@@ -33,3 +33,5 @@ langchain_ollama
 langchain-tavily
 
 langchain_community
+
+langgraph-checkpoint-sqlite
